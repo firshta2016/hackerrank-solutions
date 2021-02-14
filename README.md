@@ -62,4 +62,25 @@ Implementation-easy
 48. Happy Ladybugs
 49. Strange Counter
 
+Strings-easy
+1. CamelCase
+2. Strong Password
+3. Two Characters
+4. Caesar Cipher
+5. Mars Exploration
+6. Hackerrank in a String
+7. Pangrams
+8. Weighted Uniform Strings
+9. Separate the Numbers
+10. Funny String
+11. Gemstones
+12. Alternating Characters
+13. Beautiful Binary String
+14. The Love-Letter Mystery
+15. Palindrom Index
+16. Anagram
+17. Making Anagrams
+18. Game of Thrones-1
+19.Two Strings
+20. String Construction
 
