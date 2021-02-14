@@ -25,7 +25,8 @@ Implementation(EASY)
 11. Sales by Match
 12. Drawing Book
 13. Counting Valleys
-14. Electronics Shop [here](hackerrank-solutions/Electronic Shop.md)
+14. Electronics Shop 
+[here](https://www.youtube.com/watch?v=8y36Wf6fTVU&t=5236s)
 15. Cats and a Mouse
 16. Picking Numbers
 17. The Hurdle Race
