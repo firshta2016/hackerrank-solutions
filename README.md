@@ -26,7 +26,7 @@ Implementation(EASY)
 12. Drawing Book
 13. Counting Valleys
 14. Electronics Shop 
-[here](https://www.youtube.com/watch?v=8y36Wf6fTVU&t=5236s)
+[here](https://github.com/firshta2016/hackerrank-solutions/blob/master/Electronic%20Shop.js)
 15. Cats and a Mouse
 16. Picking Numbers
 17. The Hurdle Race
