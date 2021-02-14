@@ -1,6 +1,6 @@
 # hackerrank-solutions
 
-Warmup-easy
+Warmup(EASY)
 1. Solve Me First
 2. Simply Array Sum
 3. Compare the Triplets
@@ -11,7 +11,7 @@ Warmup-easy
 8. Birthday Cake Candles
 9. Time Conversion
 
-Implementation-easy
+Implementation(EASY)
 1. Apple and Orange
 2. Grading Students
 3. Number Line Jumps
@@ -62,7 +62,7 @@ Implementation-easy
 48. Happy Ladybugs
 49. Strange Counter
 
-Strings-easy
+Strings(EASY)
 1. CamelCase
 2. Strong Password
 3. Two Characters
