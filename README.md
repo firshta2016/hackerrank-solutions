@@ -24,8 +24,8 @@ Implementation(EASY)
 10. Bill Division
 11. Sales by Match
 12. Drawing Book
-13. Counting Valleys
-14. Electronics Shop
+13. [Counting Valleys](https://github.com/firshta2016/hackerrank-solutions/blob/master/Counting%20Valley.js)
+14. [Electronics Shop ](https://github.com/firshta2016/hackerrank-solutions/blob/master/Electronic%20Shop.js)
 15. Cats and a Mouse
 16. Picking Numbers
 17. The Hurdle Race
