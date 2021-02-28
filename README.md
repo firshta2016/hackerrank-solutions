@@ -1,15 +1,15 @@
 # hackerrank-solutions
 
 Warmup(EASY)
-1. Solve Me First
-2. Simply Array Sum
-3. Compare the Triplets
-4. A Very Big Sum
-5. Diagonal Difference
-6. Staircase
-7. Mini-Max Sum
+1. [Solve Me First](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/SolveMeFirst.js)
+2. [Simply Array Sum](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/SimpleArraySum.js)
+3. [Compare the Triplets](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/ComparetheTriplets.js)
+4. [A Very Big Sum](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/AVeryBigSum.js)
+5. [Diagonal Difference](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/DiagonalDifference.js)
+6. [Staircase](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/Staircase.js)
+7. [Mini-Max Sum](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/MiniMaxSum.js)
 8. Birthday Cake Candles
-9. Time Conversion
+9. [Time Conversion](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/TimeConversion.js)
 
 Implementation(EASY)
 1. Apple and Orange
