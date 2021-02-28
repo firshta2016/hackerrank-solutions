@@ -31,7 +31,7 @@ Implementation(EASY)
 17. The Hurdle Race
 18. Designer PDF Viewer
 19. Utopian Tree
-20. [Angry Professor] (https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/AngryProfessor.js)
+20. [Angry Professor](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/AngryProfessor.js)
 21. [Beautiful Days at the Movies](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/BeautifulDaysAtTheMovies.js)
 22. Viral Advertising
 23. Save the Prisoner
