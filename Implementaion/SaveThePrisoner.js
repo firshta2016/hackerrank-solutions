@@ -24,35 +24,31 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-// Complete the catAndMouse function below.
-function catAndMouse(x, y, z) {
-    let a = Math.abs(x - z);
-    let b = Math.abs(y - z);
-    
-    if (a > b) {
-        return 'Cat B'
-    } else if (a < b) {
-        return 'Cat A'
+// Complete the saveThePrisoner function below.
+function saveThePrisoner(n, m, s) {
+    let r = m % n;
+    if((r + s - 1 ) % n === 0) {
+        return n;
     } else {
-        return 'Mouse C'
+        return ((r + s - 1) % n)
     }
 }
 
 function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
-    const q = parseInt(readLine(), 10);
+    const t = parseInt(readLine(), 10);
 
-    for (let qItr = 0; qItr < q; qItr++) {
-        const xyz = readLine().split(' ');
+    for (let tItr = 0; tItr < t; tItr++) {
+        const nms = readLine().split(' ');
 
-        const x = parseInt(xyz[0], 10);
+        const n = parseInt(nms[0], 10);
 
-        const y = parseInt(xyz[1], 10);
+        const m = parseInt(nms[1], 10);
 
-        const z = parseInt(xyz[2], 10);
+        const s = parseInt(nms[2], 10);
 
-        let result = catAndMouse(x, y, z);
+        let result = saveThePrisoner(n, m, s);
 
         ws.write(result + "\n");
     }
