@@ -14,14 +14,14 @@ Implementation(EASY)
 1.  [Beautiful Days at the Movies](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/BeautifulDaysAtTheMovies.js)
 2. [Grading Students](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/GradingStudents.js)
 3. [Save the Prisoner](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/SaveThePrisoner.js)
-4. Jumping on the Clouds
+4. [Jumping on the Clouds](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/JumpingOnTheClouds.js)
 5. Equalize the Array
 6.  [Angry Professor](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/AngryProfessor.js)
 7. [Divisible Sum Pairs](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/DivisibleSum%20Pairs.js)
 8. [Migratory Birds](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/MigratoryBirds.js)
 9. [Day of the Programmer](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/DayOfTheProgrammer.js)
 10. [Bill Division](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/BillDivision.js)
-11. Sales by Match
+11. [Sales by Match](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/SalesByMatch.js)
 12. Drawing Book
 13. [Counting Valleys](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/CountingValley.js)
 14. [Electronics Shop ](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/ElectronicShop.js)
