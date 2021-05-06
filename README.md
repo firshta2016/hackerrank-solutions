@@ -34,7 +34,7 @@ Implementation(EASY)
 
 Strings(EASY)
 
-1. CamelCase
+1. [CamelCase](https://github.com/firshta2016/hackerrank-solutions/blob/master/Strings/CamelCase.js)
 2. Strong Password
 3. Two Characters
 4. Caesar Cipher
