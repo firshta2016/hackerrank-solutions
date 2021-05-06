@@ -24,7 +24,7 @@ function readLine() {
 
 // Complete the compareTriplets function below.
 function compareTriplets(a, b) {
-     let alice = 0;
+   let alice = 0;
    let bob = 0;
    let answer = [];
 
@@ -39,7 +39,6 @@ function compareTriplets(a, b) {
    answer[0] = alice;
    answer[1] = bob;
    return answer;
-
 }
 
 function main() {
