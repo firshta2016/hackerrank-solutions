@@ -14,9 +14,9 @@ process.stdin.on("data", (inputStdin) => {
 
 process.stdin.on("end", (_) => {
   inputString = inputString
-    .trim()
+    .replace(/\s*$/, "")
     .split("\n")
-    .map((str) => str.trim());
+    .map((str) => str.replace(/\s*$/, ""));
 
   main();
 });
@@ -25,29 +25,32 @@ function readLine() {
   return inputString[currentLine++];
 }
 
-/*
- * Complete the simpleArraySum function below.
- */
-function simpleArraySum(ar) {
-  let sum = 0;
-  for (let i = 0; i < ar.length; i++) {
-    sum += ar[i];
+// Complete the utopianTree function below.
+function utopianTree(n) {
+  let height = 1;
+
+  for (let i = 0; i < n; i++) {
+    if (i % 2 == 0) {
+      height *= 2;
+    } else {
+      height += 1;
+    }
   }
-  return sum;
+  return height;
 }
 
 function main() {
   const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
-  const arCount = parseInt(readLine(), 10);
+  const t = parseInt(readLine(), 10);
 
-  const ar = readLine()
-    .split(" ")
-    .map((arTemp) => parseInt(arTemp, 10));
+  for (let tItr = 0; tItr < t; tItr++) {
+    const n = parseInt(readLine(), 10);
 
-  let result = simpleArraySum(ar);
+    let result = utopianTree(n);
 
-  ws.write(result + "\n");
+    ws.write(result + "\n");
+  }
 
   ws.end();
 }

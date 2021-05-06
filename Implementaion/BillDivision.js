@@ -1,52 +1,55 @@
-'use strict';
+"use strict";
 
 process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.setEncoding("utf-8");
 
-let inputString = '';
+let inputString = "";
 let currentLine = 0;
 
-process.stdin.on('data', function(inputStdin) {
-    inputString += inputStdin;
+process.stdin.on("data", function (inputStdin) {
+  inputString += inputStdin;
 });
 
-process.stdin.on('end', function() {
-    inputString = inputString.split('\n');
+process.stdin.on("end", function () {
+  inputString = inputString.split("\n");
 
-    main();
+  main();
 });
 
 function readLine() {
-    return inputString[currentLine++];
+  return inputString[currentLine++];
 }
 
 // Complete the bonAppetit function below.
 function bonAppetit(bill, k, b) {
-  let sum = 0
- 
-  for(let i = 0; i < bill.length; i++){
-    if(i != k){
-      sum+= bill[i];
+  let sum = 0;
+
+  for (let i = 0; i < bill.length; i++) {
+    if (i != k) {
+      sum += bill[i];
     }
   }
 
-  if((sum/2) === b){
+  if (sum / 2 === b) {
     console.log("Bon Appetit");
   } else {
-    console.log(Math.abs(b - (sum/2)));
+    console.log(Math.abs(b - sum / 2));
   }
 }
 
 function main() {
-    const nk = readLine().replace(/\s+$/g, '').split(' ');
+  const nk = readLine().replace(/\s+$/g, "").split(" ");
 
-    const n = parseInt(nk[0], 10);
+  const n = parseInt(nk[0], 10);
 
-    const k = parseInt(nk[1], 10);
+  const k = parseInt(nk[1], 10);
 
-    const bill = readLine().replace(/\s+$/g, '').split(' ').map(billTemp => parseInt(billTemp, 10));
+  const bill = readLine()
+    .replace(/\s+$/g, "")
+    .split(" ")
+    .map((billTemp) => parseInt(billTemp, 10));
 
-    const b = parseInt(readLine().trim(), 10);
+  const b = parseInt(readLine().trim(), 10);
 
-    bonAppetit(bill, k, b);
+  bonAppetit(bill, k, b);
 }
