@@ -1,6 +1,7 @@
 # hackerrank-solutions
 
 Warmup(EASY)
+
 1. [Solve Me First](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/SolveMeFirst.js)
 2. [Simply Array Sum](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/SimpleArraySum.js)
 3. [Compare the Triplets](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/ComparetheTriplets.js)
@@ -8,9 +9,10 @@ Warmup(EASY)
 5. [Diagonal Difference](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/DiagonalDifference.js)
 6. [Staircase](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/Staircase.js)
 7. [Mini-Max Sum](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/MiniMaxSum.js)
-9. [Time Conversion](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/TimeConversion.js)
+8. [Time Conversion](https://github.com/firshta2016/hackerrank-solutions/blob/master/Warmup/TimeConversion.js)
 
 Implementation(EASY)
+
 1. [Beautiful Days at the Movies](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/BeautifulDaysAtTheMovies.js)
 2. [Grading Students](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/GradingStudents.js)
 3. [Save the Prisoner](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/SaveThePrisoner.js)
@@ -26,12 +28,12 @@ Implementation(EASY)
 13. [Counting Valleys](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/CountingValley.js)
 14. [Electronics Shop ](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/ElectronicShop.js)
 15. [Cats and a Mouse](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/CatsandAMouse.js)
-16. Utopian Tree
+16. [Utopian Tree](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/UtopianTree.js)
 17. [The Hurdle Race](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/TheHurdleRace.js)
-18. Designer PDF Viewer
-
+18. [Designer PDF Viewer](https://github.com/firshta2016/hackerrank-solutions/blob/master/Implementaion/TheDesignerPDFViewer.js)
 
 Strings(EASY)
+
 1. CamelCase
 2. Strong Password
 3. Two Characters
@@ -52,4 +54,3 @@ Strings(EASY)
 18. Game of Thrones-1
 19. Two Strings
 20. String Construction
-
